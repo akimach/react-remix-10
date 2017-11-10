@@ -8,15 +8,21 @@ Reactの練習
 
 ## 02 Router
 
-https://reacttraining.com/react-router/web/guides/
+react router
+
+https://reacttraining.com/react-router/web/guides/ のサンプル
 
 ![02](https://user-images.githubusercontent.com/17570265/32646560-7980a13e-c630-11e7-9025-70522253b703.jpg)
 
 ## 03 Material-UI
 
+material ui 
+
 ![03](https://user-images.githubusercontent.com/17570265/32646561-79cbf79c-c630-11e7-9464-8981d15ad61c.jpg)
 
 ## 04 Chart
+
+react chartjs 2
 
 ![04](https://user-images.githubusercontent.com/17570265/32646563-7a5bf09a-c630-11e7-8b3a-2eec52e0bd69.jpg)
 
@@ -25,6 +31,8 @@ https://reacttraining.com/react-router/web/guides/
 ![05](https://user-images.githubusercontent.com/17570265/32646564-7a9588c8-c630-11e7-8746-dbef2fba6470.jpg)
 
 ## 06 Editor
+
+Markd
 
 ![06](https://user-images.githubusercontent.com/17570265/32646827-de54eb28-c631-11e7-8b07-720680200b64.jpg)
 
