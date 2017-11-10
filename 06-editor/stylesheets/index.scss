@@ -1,0 +1,28 @@
+.column {
+  height: 100vh;
+  width: 100%;
+}
+
+@media all and (min-width: 500px) {
+  .wrapper {
+    display: flex;
+  }
+}
+
+textarea {
+  width: 90%;
+  height: 300px;
+  padding: 5px 10px 5px 10px;
+  border: solid 1px #aaa;
+  border-radius: 0;
+  font-family: inherit;
+  font-size: 14px;
+  -webkit-apprance: none;
+  -moz-box-sizeing: boarder-box;
+  -webkit-box-sizing: boarder-box;
+  box-sizing: boader-box;
+}
+
+form {
+  padding: 2px;
+}

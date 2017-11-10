@@ -1,0 +1,52 @@
+@charset "UTF-8";
+@-ms-viewport: {
+  width: device-width;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f6f6f6;
+}
+
+.header {
+  padding: 20px;
+  background-color: #dfe3e8;
+  h1 {
+    margin: 0;
+    font-size: 20px;
+    line-height: 1;
+    a {
+      color: #000;
+      text-decoration: none;
+    }
+    p {
+      margin: 8px 0 0 0;
+      font-size: 12px;
+      line-height: 1;
+    }
+  }
+}
+
+.container {
+  font-family: inherit;
+  padding: 20px;
+  background-color: #f6f6f6;
+  input[type="text"] {
+    margin-left: 20px;
+  }
+  label{
+    margin: 8px 0 0 0;
+    display: block;
+    position: relative;
+    padding-left: 20px;
+    font-size: 14px;
+    input[type="checkbox"] {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      margin: auto;
+    }
+  }
+}
