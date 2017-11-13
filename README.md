@@ -2,6 +2,15 @@
 
 Reactの練習
 
+## Setup
+
+```
+$ git clone https://github.com/akimach/react-remix-10.git
+$ cd 01-hello
+$ yarn install
+$ yarn run start
+```
+
 ## 01 Hello
 
 ![01](https://user-images.githubusercontent.com/17570265/32646559-79202304-c630-11e7-905c-4addf22e9eea.jpg)
